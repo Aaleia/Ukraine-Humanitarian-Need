@@ -164,8 +164,6 @@ As for ethical concerns, we thought that having a fixed prediction number alone 
 
 Aaleia Fernando - Completed the SARIMAX time series model and the K-Means Clustering model.
 
-Sherin Joseph (Farmingdale State College) - Completed cluster analysis and business understanding of the problem.
-
 Cindy Zhu (Columbia University) - Choosing between supervised and unsupervised learning.
 
 Arielle Seechan (Hunter College) - Chose dataset and preprocessed the data.
